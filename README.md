@@ -42,7 +42,5 @@ Linguagens:
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/leonardoborck)](https://github.com/leonardoborck)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardo-borck-da-silveira-82a2b1182/)](https://www.linkedin.com/in/leonardo-borck-da-silveira-82a2b1182/)
 
-<div>
-	![Snake animation](https://github.com/leonardoborck/leonardoborck/blob/output/github-contribution-grid-snake.svg)
-</div>
+![Snake Animation](https://github.com/leonardoborck/leonardoborck/blob/output/github-contribution-grid-snake.svg)
 
