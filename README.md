@@ -35,7 +35,7 @@ Linguagens:
   ![image](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
   <br /> <br />
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=leonardoborck&show_icons=true&theme=dracula) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardoborck&layout=compact&theme=dracula)]
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=leonardoborck&show_icons=true&theme=dracula) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardoborck&layout=compact&theme=dracula)
 
 
 ## Sobre mim:
