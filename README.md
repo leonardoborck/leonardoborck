@@ -6,7 +6,7 @@
   <ul>
     <li>ASP.NET C#</li>
     <li>React Native</li>
-    <li>Python + OpenCV</li>
+    <li>Python</li>
   </ul>
   
   
